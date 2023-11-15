@@ -1,0 +1,6 @@
+<<Desarrollador 1>>
+	Pablo Gabarro
+	@pablo_gbr
+<<Desarrollador 2>>
+	Joaquin Lopez	
+	@jellopez1
